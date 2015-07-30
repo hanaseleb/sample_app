@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails チュートリアル：サンプルアプリケーション
 
 これは以下のためのサンプルアプリケーションです
@@ -6,3 +7,6 @@ by [Michael Hartl](http://michaelhartl.com)
 
 # 2015.07.27
 教えてもらっています！
+=======
+# sample_app
+>>>>>>> origin/master
